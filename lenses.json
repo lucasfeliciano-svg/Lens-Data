@@ -2,14 +2,14 @@
   "lenses": [
     {
     "id": "no-lens",
-    "name": "No Lens (Passthrough)",
+    "name": "Same Lens (Passthrough)",
     "maker": "",
     "focalLength": "",
     "aperture": "",
     "exifLensID": "",
     "exifLensModel": "",
     "isActive": true
-},
+    },
     {
       "id": "rokkor-58-1.2",
       "name": "Minolta Rokkor 58mm f/1.2",
